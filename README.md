@@ -7,7 +7,7 @@ A retro-style spirit board implementation inspired by the BBC Micro computer, fe
 - LOGO command support
 
 ## Try It Out
-1. Visit: https://[your-username].github.io/turtle-spirit-board
+1. Visit: https://squatnet.github.io/turtle-spirit-board
 2. Ask questions and watch the planchette move
 3. Use /commands for LOGO turtle graphics (e.g., /FD 100)
 
